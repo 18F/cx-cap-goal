@@ -1,0 +1,64 @@
+{
+  "fields": [
+    {
+      "name": "standardized_question_identifier",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "customized_question_text",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "likert_scale_1",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "likert_scale_2",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "likert_scale_3",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "likert_scale_4",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "likert_scale_5",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "response_volume",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "notes",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "start_date",
+      "type": "date",
+      "format": "%m/%d/%Y"
+    },
+    {
+      "name": "end_date",
+      "type": "date",
+      "format": "%m/%d/%Y"
+    }
+  ],
+  "missingValues": [
+    "",
+    "N/A"
+  ]
+}
+
