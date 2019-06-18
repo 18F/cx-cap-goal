@@ -1,0 +1,4 @@
+applications:
+- name: cx-cap-goal-validator
+  services:
+   - cxcapgoaldb
